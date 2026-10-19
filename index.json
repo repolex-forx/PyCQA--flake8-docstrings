@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "flake8-docstrings",
+  "versions": [
+    {
+      "commit": "2e2f1b2700dafe36115c2e2efc3ac7d66aa4ee3e",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:15:37.631757+00:00"
+    }
+  ]
+}
