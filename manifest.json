@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "flake8-docstrings",
+  "versions": [
+    {
+      "commit": "2e2f1b2700dafe36115c2e2efc3ac7d66aa4ee3e",
+      "parsed_at": "2026-10-19T11:12:27.436829+00:00",
+      "filetree": "filetree/2e2f1b2700dafe36115c2e2efc3ac7d66aa4ee3e.nq.gz",
+      "blobs": [
+        "blob/fffe028219565be1f0339e1cb65b63311c00fea1.nq.gz",
+        "blob/5cd80c756c0cf7e8d46f7fbe71040f1deed3ef57.nq.gz",
+        "blob/3d74d9e03604141b4f71f4b4e12d083371ed0021.nq.gz",
+        "blob/60b434582ac7b8b49ac60a7f67936d9b8deff66a.nq.gz",
+        "blob/606849326a4002007fd42060b51e69a19c18675c.nq.gz",
+        "blob/5e4cc71b0bbe3d3a42647928cc42b83cceb9b0e4.nq.gz",
+        "blob/aa8361945e1421af6d29ee4eae1c6563027839ec.nq.gz",
+        "blob/6b68635eca04cb75f6eb09dd161905ce8ae97965.nq.gz",
+        "blob/9aeff1e26d05d27e4ea0d9dd317c65e0d86441a9.nq.gz",
+        "blob/6eabbdeac8df2d7d57fef12818499df4f32bf10c.nq.gz",
+        "blob/305007bb2d817f5aa4ece170ace36824a6a6e664.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
